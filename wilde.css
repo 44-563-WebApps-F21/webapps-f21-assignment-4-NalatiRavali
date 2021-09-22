@@ -8,23 +8,39 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     background-color:rgb(183, 240, 160);
-    color: black;
+    color: rgb(231, 147, 147);
 }
 
 .name{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
-    color: black;
+    color: rgb(194, 41, 41);
 }
 p:hover{
     background-color: lightcoral;
     color: rgb(91, 158, 91);
 }
 
-.LORD_GORING{
+.LADY_BASILDON{
     color: rgb(145, 78, 223);
 }   
 
-.JAMES{
+.MRS_MARCHMONT{
     color:rgb(34, 158, 180);
 }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #e09999;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #8f8686;
+  }
