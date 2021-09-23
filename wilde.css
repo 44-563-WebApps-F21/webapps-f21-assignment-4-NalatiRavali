@@ -29,19 +29,13 @@
     color:rgb(34, 158, 180);
 }
 
-
-
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  td, th {
-    border: 1px solid #e09999;
-    text-align: left;
-    padding: 8px;
-  }
+table,th,td{
+    border: 5px solid navy;
+    border-color:black;
+    text-align: center;
+    padding: 13px;
+    margin: 25px 50px 75px 100px;
+}
   
   tr:nth-child(even) {
     background-color: #8f8686;
@@ -57,4 +51,14 @@ table {
     border-style: solid;
     background-color: rgb(190, 191, 201);
     text-shadow: 3px 3px green;
+}
+
+.navbar {
+    margin: auto;
+    width: 75%;
+    background-color: gray;
+    border: 3px solid rgb(53, 182, 117);
+    padding: 10px;
+    display: block;
+    text-align: center;
 }
