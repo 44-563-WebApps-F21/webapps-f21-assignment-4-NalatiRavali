@@ -16,9 +16,9 @@
     font-size: 25px;
     color: rgb(194, 41, 41);
 }
-p:hover{
-    background-color: lightcoral;
-    color: rgb(91, 158, 91);
+.stage-direction:hover {
+    background-color: honeydew;
+    color:maroon;
 }
 
 .LADY_BASILDON{
